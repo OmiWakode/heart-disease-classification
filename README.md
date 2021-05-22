@@ -8,6 +8,8 @@ This project was made following [Complete Data Science and Machine Learning](htt
 
 Here is the roc curve for the best fitted model.
 
+![ROC Curve](https://github.com/OmiWakode/heart-disease-classification/blob/master/roc.png)
+
 
 
 
